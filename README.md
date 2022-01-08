@@ -16,6 +16,6 @@ A dapp to check the details related to a given account(transactions, balances, N
                                                       Rinkeby
                   NFTs owned by the account.
                   
-Moralis is being used behind the scenes for login authentication as well as fetching of other data.
+Moralis is being used for login authentication and for fetching other data.
                                                       
                                                   
