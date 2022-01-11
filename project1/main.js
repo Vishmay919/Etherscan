@@ -2,7 +2,7 @@
 
 // connect to Moralis server
 const serverUrl = "Your Server url from Moralis server";
-const appId = "svB1E0asl9gl2YOSLOziBn7hxI5CJc9caIyG7rXe";
+const appId = "Insert app id from Moralis server";
 Moralis.start({ serverUrl, appId });
 
 if(Moralis.User.current() == null && window.location.href != "http://127.0.0.1:5500/index.html")
